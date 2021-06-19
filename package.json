@@ -1,7 +1,6 @@
 {
   "name": "stock-proto",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +10,14 @@
   "dependencies": {
     "csv-file-creator": "^1.0.9",
     "export-to-csv": "^0.2.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khubbard96/stock-proto.git"
+  },
+  "bugs": {
+    "url": "https://github.com/khubbard96/stock-proto/issues"
+  },
+  "homepage": "https://github.com/khubbard96/stock-proto#readme",
+  "description": ""
 }
