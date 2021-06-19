@@ -1,0 +1,15 @@
+{
+  "name": "stock-proto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-file-creator": "^1.0.9",
+    "export-to-csv": "^0.2.1"
+  }
+}
